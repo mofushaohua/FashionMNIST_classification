@@ -1,6 +1,8 @@
 # FashionMNIST_classification
 1.Convert fashion-MNIST data to matlab format
+
 2.Pretrain the neural network with RBM
+
 3.update parameters by backpropagation
 
 
